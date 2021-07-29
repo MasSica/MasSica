@@ -1,4 +1,4 @@
- <p align = 'center' > Hi there, thanks for visiting my page ! 👋 </p>
+ <p align = 'center' > Hi there, thanks for visiting my page ! :rocket: </p>
 
 My name is Massimiliano Sica and I am a computer engineering student at the [Polytecnic of Milan](https://www.polimi.it/en/) :books:. 
 
@@ -10,7 +10,7 @@ Connect with me 🤝:
 
 :email: massimiliano.sica@ieee.org
 
-[Linkedin](https://www.linkedin.com/in/massimiliano-sica/)
+ :office: [Linkedin](https://www.linkedin.com/in/massimiliano-sica/)
 
 
 
