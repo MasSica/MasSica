@@ -9,6 +9,7 @@ In my free time I love playing guitar :guitar: and to cooking :spaghetti:
 Connect with me 🤝: 
 
 :email: massimiliano.sica@ieee.org
+
 [Linkedin](https://www.linkedin.com/in/massimiliano-sica/)
 
 
