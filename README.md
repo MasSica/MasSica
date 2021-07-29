@@ -4,7 +4,7 @@ My name is Massimiliano Sica and I am a computer engineering student at the [Pol
 
 I am extremly passionate about Artificial Intelligence in all of its shades from both a technical and conceptual point of view and I am currently trying to give my humble contribution to the field by means of research and industrial collaborations. 
 
-In my free time I love playing guitar :guitar: and to cooking :spaghetti:
+In my free time I love playing guitar :guitar: and cooking :spaghetti:
 
 Connect with me 🤝: 
 
