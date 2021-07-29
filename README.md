@@ -6,7 +6,7 @@ I am extremly passionate about Artificial Intelligence in all of its shades from
 
 In my free time I love playing guitar :guitar: and cooking :spaghetti:
 
-Here you will find some of the projects I have worked on during my bachelor's and master's, enjoy :smile:
+Here you will find a few of the projects I have worked on during my bachelor's and master's, enjoy :smile:
 
 Connect with me 🤝: 
 
