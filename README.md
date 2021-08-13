@@ -2,7 +2,7 @@
 
 My name is Massimiliano Sica and I am a computer engineering student at the [Polytecnic of Milan](https://www.polimi.it/en/) :books:. 
 
-I am extremly passionate about Artificial Intelligence in all of its shades from both a technical and conceptual point of view and I am currently trying to give my humble contribution to the field by means of research and industrial collaborations. 
+I am extremly passionate about the world of data in all of its shades from both a technical and conceptual point of view and I am currently trying to give my humble contribution to the field by means of research and industrial collaborations. 
 
 In my free time I love playing guitar :guitar: and cooking :spaghetti:
 
