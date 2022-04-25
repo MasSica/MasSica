@@ -12,7 +12,7 @@ EXPERIENCE:
 ABOUT:
 - 💬 I am extremly passionate about the world of data in all of its shades from both a technical and conceptual point of view and I am currently trying to give my humble contribution to the field by means of research and industrial collaborations. 
 
-- In my free time I love playing guitar :guitar: and cooking :spaghetti:
+- 💬 In my free time I love playing guitar :guitar: and cooking :spaghetti:
 
 Here you will find a few of the projects I have worked on during my bachelor's and master's, enjoy :smile:
 
