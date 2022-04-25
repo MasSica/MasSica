@@ -6,7 +6,7 @@ EDUCATION
 - :books: Bachelor's degree in electrical and computer engineering from the [Polytecnic of Turin](https://www.polito.it/index.php?lang=en)
 
 EXPERIENCE:
-- 🔭 Currently a visiting research scholar at the University of California Davis working on applications of deep reinforcement learning to HPC systems.
+- 🇺🇸 Currently a visiting research scholar at the University of California Davis working on applications of deep reinforcement learning to HPC systems.
 - 🇪🇺 Previously student trainee at the European Central Bank working as a data engineer for improving data accessibility within the banking supervision department
 
 ABOUT:
