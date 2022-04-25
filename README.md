@@ -3,7 +3,7 @@
 
 EDUCATION
 - :books: Electrical and computer engineering student at the [Polytecnic of Milan](https://www.polimi.it/en/) with expected graduation October 2022  
-- :books: Bachelor in electrical and computer engineering from Politecnico di Torino where I was able to develop a passion for software development and machine learning thanks to various extracurricular activities 
+- :books: Bachelor's degree in electrical and computer engineering from the [Polytecnic of Turin](https://www.polito.it/index.php?lang=en)
 
 EXPERIENCE:
 - 🔭 Currently a visiting research scholar at the University of California Davis working on applications of deep reinforcement learning to HPC systems.
