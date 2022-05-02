@@ -6,8 +6,8 @@ EDUCATION
 - :books: Bachelor's degree in electrical and computer engineering from the [Polytecnic of Turin](https://www.polito.it/index.php?lang=en)
 
 EXPERIENCE:
-- 🇺🇸 Currently a visiting research scholar at the University of California Davis working on applications of deep reinforcement learning to HPC systems.
-- 🇪🇺 Previously student trainee at the European Central Bank working as a data engineer for improving data accessibility and analytics within the banking supervision department
+- 🇺🇸 Currently a visiting research scholar at the **University of California Davis** working on applications of deep reinforcement learning to HPC systems.
+- 🇪🇺 Previously student trainee at the **European Central Bank working** as a data engineer for improving data accessibility and analytics within the banking supervision department
 
 ABOUT:
 - 💬 I am extremly passionate about the world of data in all of its shades from both a technical and conceptual point of view and I am currently trying to give my humble contribution to the field by means of research and industrial collaborations. 
@@ -18,9 +18,9 @@ Here you will find a few of the projects I have worked on during my bachelor's a
 
 MAIN PROJECTS:
 
-- Self-Supervised Deep Reinforcement Learning for Optical Switch Reconfiguration: Master thesis project developed in Pytorch exploiting self supervised learning for DC/HPC applications (Currently private, but will be made public soon)
-- [Artificial Neural Networks and Deep Learning Challenges](https://github.com/MasSica/Artificial-Neural-Networks-And-Deep-Learning): Computer vision tasks for both image classification and segmentation using TensorFlow and Keras
-- [ChefEasy](https://github.com/MasSica/ChefEasyMobileApp): Mobile application developed in React-Native 
+- Self-Supervised Deep Reinforcement Learning for Optical Switch Reconfiguration: Master thesis project developed using **Pytorch** exploiting self supervised learning for DC/HPC applications (Currently private, but will be made public soon)
+- [Artificial Neural Networks and Deep Learning Challenges](https://github.com/MasSica/Artificial-Neural-Networks-And-Deep-Learning): Computer vision tasks for both image classification and segmentation using **TensorFlow and Keras**
+- [ChefEasy](https://github.com/MasSica/ChefEasyMobileApp): Mobile application developed in **React** 
 
 
 
