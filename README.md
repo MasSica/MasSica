@@ -27,11 +27,9 @@ MAIN PROJECTS:
 
 CONNECT WITH ME 🤝: 
 
-:email: massimiliano.sica@ieee.org
-
- :office: [Linkedin](https://www.linkedin.com/in/massimiliano-sica/)
+📪 massimiliano.sica@ieee.org
+:office: [Linkedin](https://www.linkedin.com/in/massimiliano-sica/)
  
- MAIN PROJECTS
 
 
 
