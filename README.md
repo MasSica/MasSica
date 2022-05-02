@@ -18,7 +18,7 @@ Here you will find a few of the projects I have worked on during my bachelor's a
 
 MAIN PROJECTS:
 
-- [Self-Supervised Deep Reinforcement Learning DC/HPC Reconfiguration](https://github.com/MasSica/DRL_OCS_Reconfig): Master thesis project developed using **Pytorch** exploiting self supervised learning for DC/HPC applications 
+- [Self-Supervised Deep Reinforcement Learning for DC/HPC Reconfiguration](https://github.com/MasSica/DRL_OCS_Reconfig): Master thesis project developed using **Pytorch** exploiting self supervised learning for DC/HPC applications 
 - [Artificial Neural Networks and Deep Learning Challenges](https://github.com/MasSica/Artificial-Neural-Networks-And-Deep-Learning): Computer vision tasks for both image classification and segmentation using **TensorFlow and Keras**
 - [ChefEasy](https://github.com/MasSica/ChefEasyMobileApp): Mobile application developed in **React** 
 
