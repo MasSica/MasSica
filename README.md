@@ -7,7 +7,7 @@ EDUCATION
 
 EXPERIENCE:
 - 🇺🇸 Currently a visiting research scholar at the **University of California Davis** working on applications of deep reinforcement learning to HPC systems.
-- 🇪🇺 Previously student trainee at the **European Central Bank** working as a data engineer for improving data accessibility and analytics within the banking supervision department
+- 🇪🇺 Previously student trainee at the **European Central Bank** working as a software engineer for improving data accessibility and analytics within the banking supervision department
 
 ABOUT:
 - 💬 I am extremly passionate about the world of data in all of its shades from both a technical and conceptual point of view and I am currently trying to give my humble contribution to the field by means of research and industrial collaborations. 
