@@ -2,8 +2,8 @@
  
 
 EDUCATION
-- :books: Telecommunications engineering graduate from the [Polytecnic of Milan](https://www.polimi.it/en/) 
-- :books: Bachelor's degree in electronics and communications from the [Polytecnic of Turin](https://www.polito.it/index.php?lang=en)
+- :books: Master's degree in Telecommunications Engineering from the [Polytecnic of Milan](https://www.polimi.it/en/) 
+- :books: Bachelor's degree in Electronic and Communications Engineering from the [Polytecnic of Turin](https://www.polito.it/index.php?lang=en)
 
 EXPERIENCE:
 - 🇺🇸 Visiting research scholar at the **University of California Davis** working on applications of deep reinforcement learning to DC/HPC systems.
