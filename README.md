@@ -2,15 +2,15 @@
  
 
 EDUCATION
-- :books: Electrical and computer engineering student at the [Polytecnic of Milan](https://www.polimi.it/en/) with expected graduation October 2022  
-- :books: Bachelor's degree in electrical and computer engineering from the [Polytecnic of Turin](https://www.polito.it/index.php?lang=en)
+- :books: Telecommunications engineering graduate from the [Polytecnic of Milan](https://www.polimi.it/en/) 
+- :books: Bachelor's degree in electronics and communications from the [Polytecnic of Turin](https://www.polito.it/index.php?lang=en)
 
 EXPERIENCE:
-- 🇺🇸 Currently a visiting research scholar at the **University of California Davis** working on applications of deep reinforcement learning to HPC systems.
-- 🇪🇺 Previously student trainee at the **European Central Bank** working as a software engineer for improving data accessibility and analytics within the banking supervision department
+- 🇺🇸 Visiting research scholar at the **University of California Davis** working on applications of deep reinforcement learning to DC/HPC systems.
+- 🇪🇺 Previously student trainee at the **European Central Bank** working as a software engineer for improving data accessibility and analytics 
 
 ABOUT:
-- 💬 I am extremly passionate about the world of data in all of its shades from both a technical and conceptual point of view and I am currently trying to give my humble contribution to the field by means of research and industrial collaborations. 
+- 💬 I am extremly passionate about the world of communications, machine learning and software engineering more in general. 
 
 - 💬 In my free time I love playing guitar :guitar: and cooking :spaghetti:
 
@@ -20,7 +20,7 @@ MAIN PROJECTS:
 
 - [Self-Supervised Deep Reinforcement Learning for DC/HPC Reconfiguration](): Master thesis project developed using **Pytorch** exploiting self supervised learning for DC/HPC applications (currently private)
 - [Artificial Neural Networks and Deep Learning Challenges](https://github.com/MasSica/Artificial-Neural-Networks-And-Deep-Learning): Computer vision tasks for both image classification and segmentation using **TensorFlow and Keras**
-- [ChefEasy](https://github.com/MasSica/ChefEasyMobileApp): Mobile application developed in **React** 
+- [ChefEasy](https://github.com/MasSica/ChefEasyMobileApp): Mobile application developed in **React Native** 
 
 
 
