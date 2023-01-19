@@ -7,7 +7,6 @@ EDUCATION
 
 EXPERIENCE:
 - 🇺🇸 Visiting research scholar at the **University of California Davis** working on applications of deep reinforcement learning to DC/HPC systems.
-- 🇪🇺 Previously student trainee at the **European Central Bank** working as a software engineer for improving data accessibility and analytics 
 
 ABOUT:
 - 💬 I am extremly passionate about the world of communications, machine learning and software engineering more in general. 
