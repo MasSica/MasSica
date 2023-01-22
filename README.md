@@ -4,7 +4,7 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MasSica)](https://git.io/awesome-stats-card)
 
 EXPERIENCE:
-- 🖥️ 🇺🇸 Visiting research scholar at the **University of California Davis** working on applications of deep reinforcement learning to DC/HPC systems.
+- 🖥️ 🇺🇸 Visiting research scholar at the [University of California Davis](https://sierra.ece.ucdavis.edu)  working on applications of deep reinforcement learning to DC/HPC systems.
 
 EDUCATION
 - 📚 🇮🇹 Master's degree in Telecommunications Engineering from the [Polytecnic of Milan](https://www.polimi.it/en/) 
