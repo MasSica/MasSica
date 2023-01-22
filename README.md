@@ -1,6 +1,7 @@
  <p align = 'center' > Hi there,  my name is Massimiliano Sica and thanks for visiting my page ! :rocket: </p>
  
  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MasSica)](https://github.com/MasSica/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MasSica)](https://git.io/awesome-stats-card)
 
  
 
