@@ -30,7 +30,7 @@ CONNECT WITH ME 🤝:
 
 - 📪 massimiliano.sica@ieee.org
 
-- :office: [Linkedin](https://www.linkedin.com/in/massimiliano-sica/)
+- 🏢 [Linkedin](https://www.linkedin.com/in/massimiliano-sica/)
  
 
 
