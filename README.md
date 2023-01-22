@@ -15,7 +15,7 @@ EXPERIENCE:
 ABOUT:
 - 💬 I am extremly passionate about the world of communications, machine learning and software engineering more in general. 
 
-- 💬 In my free time I love playing guitar :guitar: and cooking :spaghetti:
+- 💬 In my free time I love travelling ✈️ and cooking 🍝
 
 Here you will find a few of the projects I have worked on during my bachelor's and master's, enjoy :smile:
 
@@ -37,18 +37,3 @@ CONNECT WITH ME 🤝:
 
 
 
-
-<!--
-**MasSica/MasSica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
