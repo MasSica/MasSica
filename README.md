@@ -4,11 +4,11 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MasSica)](https://git.io/awesome-stats-card)
 
 EXPERIENCE:
-- 🇺🇸 Visiting research scholar at the **University of California Davis** working on applications of deep reinforcement learning to DC/HPC systems.
+- 🖥️ 🇺🇸 Visiting research scholar at the **University of California Davis** working on applications of deep reinforcement learning to DC/HPC systems.
 
 EDUCATION
-- :books: :Italy: Master's degree in Telecommunications Engineering from the [Polytecnic of Milan](https://www.polimi.it/en/) 
-- :books: :Italy: Bachelor's degree in Electronic and Communications Engineering from the [Polytecnic of Turin](https://www.polito.it/index.php?lang=en)
+- 📚 🇮🇹 Master's degree in Telecommunications Engineering from the [Polytecnic of Milan](https://www.polimi.it/en/) 
+- 📚 🇮🇹 Bachelor's degree in Electronic and Communications Engineering from the [Polytecnic of Turin](https://www.polito.it/index.php?lang=en)
 
 ABOUT:
 - 💬 I am extremly passionate about the world of communications, machine learning and software engineering more in general. 
