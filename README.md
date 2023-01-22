@@ -1,5 +1,8 @@
  <p align = 'center' > Hi there,  my name is Massimiliano Sica and thanks for visiting my page ! :rocket: </p>
  
+ [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MasSica)](https://github.com/MasSica/github-readme-stats)
+
+ 
 
 EDUCATION
 - :books: Master's degree in Telecommunications Engineering from the [Polytecnic of Milan](https://www.polimi.it/en/) 
