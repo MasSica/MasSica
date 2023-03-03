@@ -1,7 +1,7 @@
  <p align = 'center' > Hi there,  my name is Massimiliano Sica and thanks for visiting my page ! :rocket: </p>
  
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MasSica&cardType=github)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MasSica?&cardType=github)](https://git.io/awesome-stats-card)
 
 EXPERIENCE:
 - 🖥️ 🇺🇸 Visiting research scholar at the [University of California Davis](https://sierra.ece.ucdavis.edu)  working on applications of deep reinforcement learning to DC/HPC systems.
