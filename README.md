@@ -4,6 +4,7 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MasSica?&cardType=octocat)](https://git.io/awesome-stats-card)
 
 EXPERIENCE:
+- 🖥️ 🇩🇪 R&D Associate at Fraunhofer [Fraunhofer HHI]([https://sierra.ece.ucdavis.edu](https://www.hhi.fraunhofer.de))
 - 🖥️ 🇺🇸 Visiting research scholar at the [University of California Davis](https://sierra.ece.ucdavis.edu)  working on applications of deep reinforcement learning to DC/HPC systems.
 
 EDUCATION
