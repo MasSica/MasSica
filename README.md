@@ -11,13 +11,6 @@ EDUCATION
 - 📚 🇮🇹 Master's degree in Telecommunications Engineering from the [Polytecnic of Milan](https://www.polimi.it/en/) 
 - 📚 🇮🇹 Bachelor's degree in Electronic and Communications Engineering from the [Polytecnic of Turin](https://www.polito.it/index.php?lang=en)
 
-ABOUT:
-- 💬 I am extremly passionate about the world of communications, machine learning and software engineering more in general. 
-
-- 💬 In my free time I love travelling ✈️ and cooking 🍝
-
-Here you will find a few of the projects I have worked on during my bachelor's and master's, enjoy :smile:
-
 MAIN PROJECTS:
 
 - [Self-Supervised Deep Reinforcement Learning for DC/HPC Reconfiguration](https://github.com/ngncsgit/hpc_testbed/tree/main/Massimiliano/RA-DRL): Master thesis project developed using **Pytorch** making use of self supervised learning for DC/HPC applications associated to the publication Experimental Assessment of Reversibility-Aware Deep Reinforcement Learning for Optical Data Center Network Reconfiguration
