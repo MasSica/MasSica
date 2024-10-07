@@ -1,4 +1,4 @@
- <p align = 'center' > Hi there,  my name is Massimiliano Sica and thanks for visiting my page ! :rocket: </p>
+ <p align = 'center' > Hi there,  my name is Massimiliano and thanks for visiting my page ! :rocket: </p>
  
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MasSica?&cardType=octocat)](https://git.io/awesome-stats-card)
