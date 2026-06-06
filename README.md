@@ -9,11 +9,12 @@ Building production-grade observability and telemetry systems for network infras
 ## Experience
 - 🇩🇪 Research and Developement Associate @ [Fraunhofer HHI](https://www.hhi.fraunhofer.de) — telemetry pipelines, autonomous network reconfiguration, and AI-assisted fault detection for optical networks
 - 🇺🇸 Visiting Research Scholar @ [UC Davis](https://sierra.ece.ucdavis.edu) — deep reinforcement learning for datacenter network reconfiguration
+- 🇩🇪 Intern @ European Central Bank — automated data extraction pipelines for large-scale regulatory datasets 
 
 ## Education
 - 🎓 PhD in Electrical & Computer Engineering — TU Berlin (2023–2026)
-- 📚 MSc Telecommunications Engineering — Politecnico di Milano
-- 📚 BSc Electronic & Communications Engineering — Politecnico di Torino
+- 📚 MSc Telecommunications Engineering — Politecnico di Milano (2019-2022)
+- 📚 BSc Electronic & Communications Engineering — Politecnico di Torino(2016-2019)
 
 ## Projects
 - 🧠 - [Self-Supervised Deep Reinforcement Learning for DC/HPC Reconfiguration](https://github.com/ngncsgit/hpc_testbed/tree/main/Massimiliano/RA-DRL): Master thesis project developed using **Pytorch** making use of self supervised learning for DC/HPC applications associated to the publication Experimental Assessment of Reversibility-Aware Deep Reinforcement Learning for Optical Data Center Network Reconfiguration
