@@ -6,7 +6,7 @@ Building production-grade observability and telemetry systems for network infras
 ## Experience
 - 🇩🇪 Research and Developement Associate @ [Fraunhofer HHI](https://www.hhi.fraunhofer.de) — telemetry pipelines, autonomous network reconfiguration, and AI-assisted fault detection for optical networks
 - 🇺🇸 Visiting Research Scholar @ [UC Davis](https://sierra.ece.ucdavis.edu) — deep reinforcement learning for datacenter network reconfiguration
-- 🇩🇪 Intern @ European Central Bank — automated data extraction pipelines for large-scale regulatory datasets 
+- 🇩🇪 Intern @ [ECB](https://www.ecb.europa.eu/home/html/index.en.html) — automated data extraction pipelines for large-scale regulatory datasets 
 
 ## Education
 - 🎓 PhD in Electrical & Computer Engineering — TU Berlin (2023–2026)
