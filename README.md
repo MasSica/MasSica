@@ -1,5 +1,5 @@
 ## Massimiliano Sica
-**Systems & Infrastructure Engineer | PhD Candidate @ TU Berlin**
+**R&D Engineer in Networking| PhD Candidate @ TU Berlin**
 
 Building production-grade observability and telemetry systems for network infrastructure. 
 
