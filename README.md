@@ -1,12 +1,10 @@
- <p align = 'center' > Massimiliano Sica Github Page :rocket: </p>
- 
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MasSica?&cardType=octocat)](https://git.io/awesome-stats-card)
-
 ## Massimiliano Sica
 **Systems & Infrastructure Engineer | PhD Candidate @ TU Berlin**
 
-Building production-grade observability and telemetry systems for network infrastructure.
+Building production-grade observability and telemetry systems for network infrastructure. 
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MasSica?&cardType=octocat)](https://git.io/awesome-stats-card)
+
 
 ## Experience
 - 🇩🇪 Research and Developement Associate @ [Fraunhofer HHI](https://www.hhi.fraunhofer.de) — telemetry pipelines, autonomous network reconfiguration, and AI-assisted fault detection for optical networks
