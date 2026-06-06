@@ -26,9 +26,6 @@ Building production-grade observability and telemetry systems for network infras
 
 
 CONNECT WITH ME 🤝: 
-
-- 📪 massimiliano.sica@ieee.org
-
 - 🏢 [Linkedin](https://www.linkedin.com/in/massimiliano-sica/)
  
 
