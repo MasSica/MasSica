@@ -14,7 +14,8 @@ Building production-grade observability and telemetry systems for network infras
 - 📚 BSc Electronic & Communications Engineering — Politecnico di Torino(2016-2019)
 
 ## Projects
-- 🧠 - [Self-Supervised Deep Reinforcement Learning for DC/HPC Reconfiguration](https://github.com/ngncsgit/hpc_testbed/tree/main/Massimiliano/RA-DRL): Master thesis project developed using **Pytorch** making use of self supervised learning for DC/HPC applications associated to the publication Experimental Assessment of Reversibility-Aware Deep Reinforcement Learning for Optical Data Center Network Reconfiguration
+- [DCN Observability]([https://github.com/ngncsgit/hpc_testbed/tree/main/Massimiliano/RA-DRL](https://github.com/MasSica/dcn-observability) A  cloud-native observability pipeline for datacenter networks: gRPC-based metric streaming, topology-aware anomaly detection, and automated alerting on Kubernetes
+- 🧠 - [Self-Supervised Deep Reinforcement Learning for DC/HPC Reconfiguration](https://github.com/ngncsgit/hpc_testbed/tree/main/Massimiliano/RA-DRL): Master thesis project developed using Pytorch making use of self supervised learning for DC/HPC applications associated to the publication Experimental Assessment of Reversibility-Aware Deep Reinforcement Learning for Optical Data Center Network Reconfiguration
 
 ## Connect
 - 📧 massimiliano.sica97@gmail.com
